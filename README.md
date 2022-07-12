@@ -1,0 +1,2 @@
+# curseapi
+CurseForge api wrapper
